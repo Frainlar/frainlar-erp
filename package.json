@@ -52,7 +52,7 @@
     "swig": "1.4.2",
     "underscore": "^1.12.1",
     "validate.js": "^0.9.0",
-    "validator": "^4.2.1",
+    "validator": "^13.7.0",
     "winston": "^2.1.1",
     "woocommerce-api": "^1.3.2",
     "xlsx": "^0.17.0",
