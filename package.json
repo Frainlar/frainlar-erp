@@ -72,7 +72,7 @@
     "eslint": "^4.18.2",
     "eslint-config-thinkmobiles": "git+https://github.com/ivanlyah/eslint-config-thinkmobiles.git",
     "eslint-plugin-react": "^4.1.0",
-    "grunt": "^1.3.0",
+    "grunt": "^1.5.3",
     "grunt-apidoc": "^0.11.0",
     "grunt-contrib-jshint": "^0.11.2",
     "grunt-contrib-nodeunit": "^0.4.1",
